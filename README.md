@@ -13,7 +13,6 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Next" src="https://img.shields.io/badge/-NextJs-F05032?style=flat-square&logo=next&logoColor=white" />
 </p>
 
 ## 💬 Where to find me ?
