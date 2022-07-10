@@ -2,7 +2,7 @@
 <h3 align="center">A web developper from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> and I fell in love with React.JS.</h3>
 
 <div align="center">
-<img src="https://www.avantjetaisriche.com/wp-content/webpc-passthru.php?src=https://www.avantjetaisriche.com/wp-content/themes/avantjetaisricherefonte-2.2/rocket.gif&nocache=1" />
+<img src="https://i.postimg.cc/rs9cwryV/codeur.png" />
 </div>
   
 ## 💻 Hard skills
