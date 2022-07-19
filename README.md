@@ -7,12 +7,10 @@
   
 ## 💻 Hard skills
 <p>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="css3" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ## 💬 Where to find me ?
@@ -20,10 +18,6 @@
 - [LinkedIn](https://www.linkedin.com/in/nicolas-de-raemy-957b62231/)
 
 
-
-
-### Last tweets
-[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=frontcodelover&layout=wide)](https://twitter.com/frontcodelover)
 
 
 ## 📅 More ?
