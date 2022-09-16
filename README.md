@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Nicolas 👋</h1>
-<h3 align="center">A web developper from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> and I fell in love with React.JS.</h3>
+<h3 align="center"> Développeur Front-End amoureux de React !</h3>
+<h4 align="center">A web developper from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> and I fell in love with React.JS.</h4>
 
 <div align="center">
 <img src="https://i.postimg.cc/rs9cwryV/codeur.png" />
@@ -16,8 +17,6 @@
 ## 💬 Where to find me ?
 - [Twitter](https://twitter.com/frontcodelover) 
 - [LinkedIn](https://www.linkedin.com/in/nicolas-de-raemy-957b62231/)
-
-
 
 
 ## 📅 More ?
