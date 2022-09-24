@@ -16,7 +16,7 @@
 
 ## 💬 Où me trouver ?
 - [Twitter](https://twitter.com/frontcodelover) 
-- [LinkedIn](https://www.linkedin.com/in/nicolas-de-raemy-957b62231/)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-de-raemy/)
 
 
 ## 📅 En savoir plus ?
