@@ -21,8 +21,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frontcodelover&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💬 Où me trouver ?
 - [Twitter](https://twitter.com/frontcodelover) 
