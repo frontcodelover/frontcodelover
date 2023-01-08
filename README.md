@@ -22,6 +22,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+ ![Codewars](https://github.r2v.ch/codewars?user=frontcodelover&stroke=blue)
+  
 ## 💬 Où me trouver ?
 - [Twitter](https://twitter.com/frontcodelover) 
 - [LinkedIn](https://www.linkedin.com/in/nicolas-de-raemy/)
