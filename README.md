@@ -1,6 +1,11 @@
-<h1 align="center">Hello World, I am Nicolas</h1>
-<h3 align="center">French Front-End Developer crafting modern web experiences with React & Next.js ready to grow within a supportive team.</h3>
+<h1>Hello World, I am Nicolas 👋</h1>
+French Front-End Developer crafting modern web experiences with React & Next.js ready to grow within a supportive team. 
 
+<p>After an enriching first career, I decided to follow my passion for development by embarking on a career change. This journey has allowed me to build a solid expertise in React and deepen my understanding of modern web technologies.
+
+
+My professional background has also helped me develop valuable soft skills: teamwork, clear communication, versatility, and of course, an insatiable curiosity for new technologies. I am now looking for a new opportunity to grow within a supportive team and contribute to the development of innovative projects.
+</p>
   
 ## 💻 Hard skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
